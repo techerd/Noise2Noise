@@ -13,6 +13,10 @@ Documentation
 -------------
 Details on the method and results can be found in my report.
 
+Automatic mixed precision : https://pytorch.org/docs/stable/notes/amp_examples.html](https://pytorch.org/tutorials/recipes/recipes/amp_recipe.html
+
+
+
 Code 
 -----------
 * **.py**
