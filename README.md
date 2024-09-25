@@ -13,7 +13,11 @@ Documentation
 -------------
 Details on the method and results can be found in my report.
 
-Automatic mixed precision : https://pytorch.org/docs/stable/notes/amp_examples.html](https://pytorch.org/tutorials/recipes/recipes/amp_recipe.html
+Automatic mixed precision : https://pytorch.org/docs/stable/notes/amp_examples.html
+
+Nvidia nvtx : 
+* https://github.com/NVIDIA/nsight-training/blob/2d680f7f8368b945bc00b22834808af24eff4c3d/cuda/2021_gtc/x-ac-03-v1/task1/task/nsys/01_introduction.ipynb
+* https://nvidia.github.io/NVTX/
 
 
 
