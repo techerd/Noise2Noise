@@ -11,7 +11,7 @@ Data are from the ForceSMIP project (Forced Component Estimation Statistical Met
 
 Documentation 
 -------------
-Details on the method and results can be found in my report.
+Details on the method and results can be found in my report (download the file).
 
 Automatic mixed precision : https://pytorch.org/docs/stable/notes/amp_examples.html
 
